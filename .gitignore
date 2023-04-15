@@ -1,0 +1,6 @@
+.jekyll-cache
+.DS_Store
+.swp
+.sass-cache
+Gemfile.lock
+vis4good.github.io.code-workspace
