@@ -4,7 +4,6 @@ title: home
 exclude: true
 ---
 <style>
-
 h3 {
 margin-top: 2em;
 }
@@ -64,184 +63,345 @@ margin-top: 2em;
 
 </style>
 
+<p><img src="img/teaser2.png" alt="Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen" /></p>
 
-![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
+<ul>
+  <li><strong>When:</strong> Sunday 22 October, 2023 /Monday 23 October, 2023</li>
+  <li><strong>Where:</strong> VIS 2023, Melbourne Convention and Exhibition Centre, Melbourne, Australia</li>
+  <li><strong>Contact Us:</strong> <code class="language-plaintext highlighter-rouge">vis4good-org@googlegroups.com</code>, <a href="https://twitter.com/vis4good">@vis4good</a></li>
+</ul>
 
-- **When:** Sunday 16 October 2022 2-5pm CDT (UTC-5)
-- **Where:** VIS 2022 at Oklahoma Station 8
-- **Contact Us:** `vis4good-org@googlegroups.com`, [@vis4good](https://twitter.com/vis4good)
+<h3 id="welcome">Welcome</h3>
 
-### Welcome
+<p>We are proud to announce the third <strong>Workshop on Visualization for Social Good</strong> to be held as part of <a href="https://ieeevis.org/year/2023/welcome">IEEE VIS 2023</a>. The goal of this workshop is to:</p>
+<ul>
+  <li><strong><em>provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society in order to build just and equitable futures.</em></strong></li>
+</ul>
 
-We are proud to announce the second **Workshop on Visualization for Social Good** to be held as part of [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome). The goal of this workshop is to:
-- ***provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society.***
+<p> Data is an inescapable part of our lives: it guides commerce, government, and technology, and increasingly determines what lives we can (or cannot) live. Data visualization has a special place within this emerging, data-driven, order: as a tool to inform or persuade mass audiences, guide or enlighten the specialist, or give a voice to the unheard. We therefore pose the question: how can visualization, and visualization research, help us build the worlds we want? This theme, building just and equitable futures, is the motivation behind our proposal for a third edition of our recurring workshop at IEEE VIS: Visualization for Social Good. Our workshop series has had success not only at showcasing high-quality socially-minded visualization research from diverse voices, but also in starting important conversations around the role of data visualization as a force for good in society at large. We hope to continue this effort in 2023. Additionally, as our workshop matures, we feel our choice of theme allows us to take a more longitudinal focus as both a workshop and as a community. Our workshop, if accepted, would also occur amid a larger conversation about the role of data in human dignity and flourishing. </p> 
 
-There are many ways that work in visualization can have immediate social impact--- working closely with community stakeholders, exploring how to present data for mass audiences, evaluating the potential of visualization for advocacy or as a tool to shape public policy--- all have the potential to reshape society for the better. Thoughtfulness, reflection, and critique are likewise important to build up a clear picture of both the potential benefits and potential harms of visualization research.
+<h3 id="schedule">Schedule</h3>
+<p>Coming Soon!</p>
 
-The Visualization for Social Good Workshop (Vis4Good) aims to provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society. Through a blend of paper sessions, invited presentations, and break-out groups, we hope that the inaugural Vis4Good 2022 Workshop encourages attendees to harness visualization research to tackle critical challenges in responsible AI, clean energy, human health and well-being, and other domain areas with critical societal impact.
+<!--
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time(CDT)           </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">2:00-2:15</td>
+      <td><strong>Introduction &amp; Welcome</strong></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2:15-3:10</td>
+      <td><strong>Keynote: <em>Time, Space and Place: How to Break All Of Data’s Rules</em></strong></td>
+      <td>Jer Thorp</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3:10-3:30</td>
+      <td><strong>Paper Session 1</strong></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td><em><a href="papers/2022/dhawka.pdf">Representing Marginalized Populations: Challenges in Anthropographics</a></em></td>
+      <td>Priya Dhawka, Helen Ai He, Wesley Willett</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td><em><a href="papers/2022/schwabish.pdf">Additional Perspectives on Data Equity</a></em></td>
+      <td>Jonathan Schwabish, Alice Feng, Wesley Jenkins</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3:30-4:00</td>
+      <td><strong>Break</strong></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">4:00-4:55</td>
+      <td><strong>Paper Session 2</strong></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td><em><a href="papers/2022/besancon.pdf">Exploring and Explaining Climate Change: Exploranation as a Visualization Pedagogy for Societal Action</a></em></td>
+      <td>Lonni Besançon, Konrad J Schönborn, Erik Sundén, Yin He, Samuel Rising, Peter Westerdahl, Patric Ljung, Josef Wideström, Charles Hansen, Anders Ynnerman</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td><em><a href="papers/2022/jansen.pdf">Envisioning Situated Visualizations of Environmental Footprints in an Urban Environment</a></em></td>
+      <td>Yvonne Jansen, Federica Bucchieri, Pierre Dragicevic, Martin Hachet, Morgane Koval, Léana Petiot, Arnaud Prouzeau, Dieter Schmalstieg, Lijie Yao, Petra Isenberg</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td><em><a href="papers/2022/hattab.pdf">Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency</a></em></td>
+      <td>Georges Hattab</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td><em><a href="papers/2022/ambrosini.pdf">Data Bricks Space Mission: Teaching Kids about Data with Physicalization</a></em></td>
+      <td>Lorenzo Ambrosini, Miriah Meyer</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td><em><a href="papers/2022/markant.pdf">Can data visualizations change minds? Identifying mechanisms of elaborative thinking and persuasion</a></em></td>
+      <td>Douglas Markant, Milad Rogha, Alireza Karduni, Ryan Wesslen, Wenwen Dou</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td><em><a href="papers/2022/tuzcu.pdf">(Poster Paper) Teaching Data Visualization for Social Impact</a></em></td>
+      <td>Nil Tuzcu</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">4:55-5:00</td>
+      <td><strong>Closing Remarks</strong></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+</-->
 
-### Schedule
+<h3 id="call-for-papers">Call for Papers</h3>
 
-| Time(CDT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | |
-|:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| 2:00-2:15 | **Introduction & Welcome, Paper Session** | | |
-| | *[Additional Perspectives on Data Equity](papers/2022/schwabish.pdf)* | Jonathan Schwabish, Alice Feng, Wesley Jenkins |
-| | *[Exploring and Explaining Climate Change: Exploranation as a Visualization Pedagogy for Societal Action](papers/2022/besancon.pdf)* | Lonni Besançon, Konrad J Schönborn, Erik Sundén, Yin He, Samuel Rising, Peter Westerdahl, Patric Ljung, Josef Wideström, Charles Hansen, Anders Ynnerman |
-| | *[Envisioning Situated Visualizations of Environmental Footprints in an Urban Environment](papers/2022/jansen.pdf)* | Yvonne Jansen, Federica Bucchieri, Pierre Dragicevic, Martin Hachet, Morgane Koval, Léana Petiot, Arnaud Prouzeau, Dieter Schmalstieg, Lijie Yao, Petra Isenberg |
-| | *[Can data visualizations change minds? Identifying mechanisms of elaborative thinking and persuasion](papers/2022/markant.pdf)* | Douglas Markant, Milad Rogha, Alireza Karduni, Ryan Wesslen, Wenwen Dou |
-| | *[Representing Marginalized Populations: Challenges in Anthropographics](papers/2022/dhawka.pdf)* | Priya Dhawka, Helen Ai He, Wesley Willett |
-| | *[Data Bricks Space Mission: Teaching Kids about Data with Physicalization](papers/2022/ambrosini.pdf)* | Lorenzo Ambrosini, Miriah Meyer |
-| 3:15-3:45 | **Break** | |
-| 3:45-5:00 | **Paper Session 2 & Break-out Session** | |
-| | *[Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency](papers/2022/hattab.pdf)* | Georges Hattab |
-| | *[(Poster Paper) Teaching Data Visualization for Social Impact](papers/2022/tuzcu.pdf)* | Nil Tuzcu |
-| | *Break-out Session: Brainstorming Visualization for Social Good* | Vis4Good attendees and community |
-| 5:00 | **Closing Remarks** | |
+<p>We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the <a href="https://sdgs.un.org/goals">UN Sustainable Development Goals</a>, the NAE <a href="http://www.engineeringchallenges.org/challenges.aspx">Grand Challenges for Engineering</a>, and the NSF <a href="https://www.nsf.gov/news/special_reports/big_ideas/">10 Big Ideas</a>. Yet, as the “techlash” continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.</p>
 
-### Call for Papers
+<p>With the power that comes with collecting, interpreting, and communicating data in visualization, there is naturally a social <em>responsibility.</em> To do good and avoid harm, we should make our values as a field explicit, criticize and critique the work we do that has a potential for harm, develop a pedagogy around the socially responsible design and use of visualization, and develop good patterns for fruitful collaboration with stakeholders working on key societal problems.</p>
 
-We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
+<p>To that end, we are soliciting work that deals with the social impact of visualization work. 
+In order to focus the goals of our workshop, provide inspiration to potential attendees or submitters, and to reflect on the pressing issues of contemporary importance, we propose the following theme for the 2022 workshop: <strong>pedagogy</strong>, <strong>process</strong>, and <strong>protest</strong>.</p>
 
-With the power that comes with collecting, interpreting, and communicating data in visualization, there is naturally a social *responsibility.* To do good and avoid harm, we should make our values as a field explicit, criticize and critique the work we do that has a potential for harm, develop a pedagogy around the socially responsible design and use of visualization, and develop good patterns for fruitful collaboration with stakeholders working on key societal problems.
+<ul>
+  <li>We have the potential to re-imagine visualization <strong>pedagogy</strong>: to build curricula that encourage closer connections with communities and public service, build up data literacy in crucial audiences, or to better integrate ethical practices and thinking in how we conceptualize visualization as a discipline.</li>
+  <li>The <strong>process</strong> of designing, evaluating, or circulating visualizations takes on a special character and urgency when dealing with matters of social importance, or as part of collaborations and relationships between visualizations experts and mass audiences.</li>
+  <li>Visualization can also act as a powerful tool for advocacy and <strong>protest</strong>: charts and graphs can place inequality or inequity in stark relief, and can act as a persuasive in a world that strives to be “data-driven.”’ However, visualization designers themselves, through resistance or refusal, can comment on the unequal ways that data are collected, presented, or organized in our society.</li>
+</ul>
 
-To that end, we are soliciting work that deals with the social impact of visualization work. 
-In order to focus the goals of our workshop, provide inspiration to potential attendees or submitters, and to reflect on the pressing issues of contemporary importance, we propose the following theme for the 2022 workshop: **pedagogy**, **process**, and **protest**.
+<h4 id="contributions">Contributions</h4>
+<p>Potential contributions might include (but are not limited to):</p>
 
-- We have the potential to re-imagine visualization **pedagogy**: to build curricula that encourage closer connections with communities and public service, build up data literacy in crucial audiences, or to better integrate ethical practices and thinking in how we conceptualize visualization as a discipline.
-- The **process** of designing, evaluating, or circulating visualizations takes on a special character and urgency when dealing with matters of social importance, or as part of collaborations and relationships between visualizations experts and mass audiences.
-- Visualization can also act as a powerful tool for advocacy and **protest**: charts and graphs can place inequality or inequity in stark relief, and can act as a persuasive in a world that strives to be “data-driven.”' However, visualization designers themselves, through resistance or refusal, can comment on the unequal ways that data are collected, presented, or organized in our society.
+<ul>
+  <li>Design studies, “collaboration journals,” or other best practices for visualization work in domains with high social impact. Examples include:</li>
+  <li>Public health, development, and sustainable growth</li>
+  <li>Inclusivity, accessibility, and disability rights</li>
+  <li>Diversity, racial equality, and gender equality</li>
+  <li>Sustainability, ecology, and environmental activism</li>
+  <li>Explorations of design considerations for visualizations for mass audiences or policymakers. Examples include:</li>
+  <li>Building statistical or visualization literacy and fluency</li>
+  <li>Persuasion, misinformation, and deception</li>
+  <li>Accessibility</li>
+  <li>Critiques, manifestos, or provocations around social or ethical responsibilities in visualization design or research</li>
+</ul>
 
-#### Contributions
-Potential contributions might include (but are not limited to):
+<p>Consult our <a href="resources">resources page</a>, <a href="workshop2021">2021</a> and <a href="workshop2022">2022 workshops</a> for sample works.</p>
 
-- Design studies, "collaboration journals," or other best practices for visualization work in domains with high social impact. Examples include:
- - Public health, development, and sustainable growth
- - Inclusivity, accessibility, and disability rights
- - Diversity, racial equality, and gender equality
- - Sustainability, ecology, and environmental activism
-- Explorations of design considerations for visualizations for mass audiences or policymakers. Examples include:
- - Building statistical or visualization literacy and fluency
- - Persuasion, misinformation, and deception
- - Accessibility
-- Critiques, manifestos, or provocations around social or ethical responsibilities in visualization design or research
+<h4 id="submissions">Submissions</h4>
 
-Consult our [resources page](resources) and [2021 workshop](workshop2021) for sample works.
+<p>Papers will be <em>up to four pages, plus up to one page of references</em>, in <a href="https://tc.computer.org/vgtc/publications/conference/">VGTC two-column format</a>. Authors may elect to have their paper included archivally, or, per the authors’ request (e.g., for in-progress work), to have the work be presented but excluded from formal conference proceedings. The deadline for paper submissions is <em>July 20</em>.</p>
 
-#### Submissions
+<p>Authors also have the option to submit a <em>2-page abstract for a poster</em> to be presented at the workshop. Poster abstracts follow the same format as paper submissions and will not be archived. The deadline for poster submissions is <em>September 7</em>.</p>
 
-Papers will be *up to four pages, plus up to one page of references*, in [VGTC two-column format](https://tc.computer.org/vgtc/publications/conference/). Authors may elect to have their paper included archivally, or, per the authors' request (e.g., for in-progress work), to have the work be presented but excluded from formal conference proceedings. The deadline for paper submissions is *July 20*.
+<p>Paper and poster submissions will be made via <a href="https://new.precisionconference.com/submissions">PCS</a> and single-blind reviewed by the program committee.</p>
 
-Authors also have the option to submit a *2-page abstract for a poster* to be presented at the workshop. Poster abstracts follow the same format as paper submissions and will not be archived. The deadline for poster submissions is *September 7*.
+<h3 id="important-dates">Important Dates</h3>
+<p>Coming Soon!</p>
+<!--
+<ul>
+  <li><del>July 25: Workshop paper submissions deadline</del></li>
+  <li><del>August 19: Reviews due</del></li>
+  <li><del>August 22: Workshop paper notifications</del></li>
+  <li><del>August 29: Camera-ready paper deadline</del></li>
+  <li><del>September 7: Poster submission deadline</del></li>
+  <li><del>September 14: Poster notifications</del></li>
+  <li>October 16: Workshop date</li>
+</ul>
 
-Paper and poster submissions will be made via [PCS](https://new.precisionconference.com/submissions) and single-blind reviewed by the program committee.
-
-### Important Dates
-
-- ~~July 25: Workshop paper submissions deadline~~
-- ~~August 19: Reviews due~~
-- ~~August 22: Workshop paper notifications~~
-- ~~August 29: Camera-ready paper deadline~~
-- ~~September 7: Poster submission deadline~~
-- ~~September 14: Poster notifications~~
-- October 16: Workshop date
-
-
-### ~~Keynote~~ (Cancelled) 
+<h3 id="keynote">Keynote</h3>
 
 <figure class="keynote-item">
  <a href="https://www.jerthorp.com/about">
-   <img class="keynote_image" src="img/thorp.jpeg" alt="Jer Thorp head shot"/>
+   <img class="keynote_image" src="img/thorp.jpeg" alt="Jer Thorp head shot" />
  </a>
    <figcaption class="caption">Jer Thorp <br /> Artist, Writer, Educator </figcaption>
 </figure>
 
-**Time, Space and Place: How to Break All Of Data's Rules**
+<p><strong>Time, Space and Place: How to Break All Of Data’s Rules</strong></p>
 
-In this presentation, Jer Thorp will share a decade’s worth of work that seeks to break down the rules we have built for data representation, and the rigid demands we’ve put on our audiences. Starting with static visualization and stretching to sculpture, performance and participatory art, Thorp will examine how refusing to comply with Tuftian standards might give data a chance to speak to wider audiences about complex topics.
+<p>In this presentation, Jer Thorp will share a decade’s worth of work that seeks to break down the rules we have built for data representation, and the rigid demands we’ve put on our audiences. Starting with static visualization and stretching to sculpture, performance and participatory art, Thorp will examine how refusing to comply with Tuftian standards might give data a chance to speak to wider audiences about complex topics.</p>
+
+-->
+
+<h3 id="program-committee">Program Committee</h3>
+
+<ul>
+  <li><strong>Lyn Bartram</strong>, Simon Fraser University</li>
+  <li><strong>Vetria Byrd</strong>, Purdue University</li>
+  <li><strong>Catherine D’Ignazio</strong>, MIT</li>
+  <li><strong>Mennatallah El-Assady</strong>, ETH Zurich</li>
+  <li><strong>Mary Czerwinski</strong>, Microsoft Research</li>
+  <li><strong>Lauren Klein</strong>, Emory University</li>
+  <li><strong>Sean McGregor</strong>, Syntiant, Partnership on AI, XPrize Foundation</li>
+  <li><strong>Ab Mosca</strong>, Northeastern University</li>
+  <li><strong>Jessica Hullman</strong>, Northwestern University</li>
+  <li><strong>Crystal Lee</strong>, MIT</li>
+  <li><strong>Ronald Metoyer</strong>, University of Notre Dame</li>
+  <li><strong>Jon Schwabish</strong>, PolicyViz</li>
+  <li><strong>Phillipe, Riviere</strong>, Visioncarto </li>
+</ul>
 
 
-### Program Committee
+  
 
-- **Alyxander Burns**, UMass Amherst
-- **Vetria Byrd**, Purdue
-- **Catherine D'Ignazio**, MIT
-- **Mennatallah El-Assady**, University of Konstanz / Ontario University
-- **Mi Feng**, Twitter
-- **Lauren Klein**, Emory
-- **Sean McGregor**, Syntiant, Partnership on AI, XPrize Foundation
-- **Ab Mosca**, Tufts
-- **Cathryn A Ploehn**, CMU
-- **Paul Rosen**, USF
-- **Manaswi Saha**, UW
-- **Arvind Satyanarayan**, MIT
-- **Jon Schwabish**, Urban Institute
-- **Uzma Haque Syeda**, Northeastern
+<h3 id="organizers">Organizers</h3>
 
-
-### Organizers
 
 <div id="bios">
 
-<a href="https://homes.cs.washington.edu/~leibatt/">
+<a href="https://www.evanthiadimara.com/home">
 <div class="grid-item">
- <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot" />
- <div class="bio_name">Leilani Battle</div>
- <div class="bio_affiliation">University of Washington</div>
+ <img class="bio_image" src="img/evanthia.png" alt="Evanthia Dimara head shot" />
+ <div class="bio_name">Evanthia Dimara</div>
+ <div class="bio_affiliation">Utrecht University</div>
  <div class="bio_text">
- Leilani Battle is an Assistant Professor in the Paul G. Allen Center of Computer Science and Engineering at the University of Washington. Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
+  Evanthia Dimara is an Assistant Professor of Computer Science at Utrecht University. Her fields of research are Information Visualization and HCI. Her research focuses on decision making --- to determine how technology can aid people to make impartial and informed decisions individually or as a group
  </div>
 </div>
 </a>
 
-<a href="https://www.khoury.northeastern.edu/people/michelle-borkin/">
+<a href="https://uzma0804.github.io/syeda/">
 <div class="grid-item">
- <img class="bio_image" src="img/borkin.jpg" alt="Michelle Borkin head shot" />
- <div class="bio_name">Michelle Borkin</div>
+ <img class="bio_image" src="img/syeda.JPG" alt="Uzma Haque head shot" />
+ <div class="bio_name">Uzma Haque Syeda</div>
  <div class="bio_affiliation">Northeastern University</div>
  <div class="bio_text">
- Michelle Borkin is an Assistant Professor in the Khoury College of Computer Sciences at Northeastern University. Her research focuses on the development of visualization techniques and tools to enable new insights and discoveries in data across disciplines, informed and enhanced through the evaluation of perception and cognition theory. She is also passionate about broadening participation in visualization, and teaching visualization through a Service-Learning model which engages students with their local community and empowers them to use their visualization skills for social good.
- </div>
-</div>
-</a>
-
-<a href="https://emilywall.github.io/">
-<div class="grid-item">
- <img class="bio_image" src="img/wall.jpeg" alt="Emily Wall head shot" />
- <div class="bio_name">Emily Wall</div>
- <div class="bio_affiliation">Emory University</div>
- <div class="bio_text">
- I am an Assistant Professor in the Department of Computer Science at Emory University. My students and I make up CAV Lab where we focus on cognition and visualization. I completed my Ph.D. in Computer Science at Georgia Tech in 2020 and was a postdoctoral researcher at Northwestern University 2020-2021.
- </div>
-</div>
-</a>
-
-<a href="https://web.cs.wpi.edu/~ltharrison/">
-<div class="grid-item">
- <img class="bio_image" src="img/harrison.jpeg" alt="Lane Harrison head shot" />
- <div class="bio_name">Lane Harrison</div>
- <div class="bio_affiliation">Worcester Polytechnic Institute</div>
- <div class="bio_text">
- Lane Harrison is an assistant professor at Worcester Polytechnic Institute. His research centers on measuring how audiences read and interact with visualizations, including graphical perception studies, and studies involving popular interactive visualizations on the web.
+  Uzma Haque Syeda is a fifth-year Ph.D. Student in the Khoury College of Computer Sciences at Northeastern University. She holds a B.Sc. in Electrical and Electronic Engineering from the University of Dhaka, Bangladesh, and an M.S. in Computer Science from Northeastern University. Her research focuses on bridging the gap between visualization research and pedagogy by providing methodologies to teach and implement design studies with nonprofit organizations to facilitate social good. The aim of her research is to benefit both the learners and the research community.
  </div>
 </div>
 </a>
 
 <a href="https://groups.cs.umass.edu/nmahyar/">
-<div class="grid-item">
- <img class="bio_image" src="img/mahyar.jpeg" alt="Narges Mahyar head shot" />
- <div class="bio_name">Narges Mahyar</div>
- <div class="bio_affiliation">University of Massachusetts Amherst</div>
- <div class="bio_text">
-Narges Mahyar is an Assistant Professor in the College of Information and Computer Sciences at the University of Massachusetts Amherst. She holds a PhD in Computer Science from the University of Victoria, an MS in Information Technology from the University of Malaya, and a BS in Electrical Engineering from Tehran Azad University. Her Ph.D. was funded by SAP Business Objects for four years, where she worked closely with SAP experts and research team to develop novel technologies for collaborative visual analytics tasks.
+  <div class="grid-item">
+   <img class="bio_image" src="img/mahyar.jpeg" alt="Narges Mahyar head shot" />
+   <div class="bio_name">Narges Mahyar</div>
+   <div class="bio_affiliation">University of Massachusetts Amherst</div>
+   <div class="bio_text">
+  Narges Mahyar is an Assistant Professor in the College of Information and Computer Sciences at the University of Massachusetts Amherst. She holds a PhD in Computer Science from the University of Victoria, an MS in Information Technology from the University of Malaya, and a BS in Electrical Engineering from Tehran Azad University. Her Ph.D. was funded by SAP Business Objects for four years, where she worked closely with SAP experts and research team to develop novel technologies for collaborative visual analytics tasks.
+  
+   </div>
+  </div>
+  </a>
 
+<a href="https://research.monash.edu/en/persons/delvin-varghese">
+<div class="grid-item">
+ <img class="bio_image" src="img/delvin.jpg" alt=" Delvin Varghese head shot" />
+ <div class="bio_name"> Delvin Varghese</div>
+ <div class="bio_affiliation">Monash University</div>
+ <div class="bio_text">
+  Delvin Varghese is a Research Fellow within Action Lab in the Department of Human-Centred Computing at Monash University. His research focuses on the design of technologies for nonprofits and community organizations to support community voice and inclusion, including recent domains such as community welfare, peer mentoring of rural volunteers, providing technological support for individuals released from prison, and ICTD in Bangladesh.
  </div>
 </div>
 </a>
 
+<a href="https://emilywall.github.io/">
+  <div class="grid-item">
+   <img class="bio_image" src="img/wall.jpeg" alt="Emily Wall head shot" />
+   <div class="bio_name">Emily Wall</div>
+   <div class="bio_affiliation">Emory University</div>
+   <div class="bio_text">
+   I am an Assistant Professor in the Department of Computer Science at Emory University. My students and I make up CAV Lab where we focus on cognition and visualization. I completed my Ph.D. in Computer Science at Georgia Tech in 2020 and was a postdoctoral researcher at Northwestern University 2020-2021.
+   </div>
+  </div>
+  </a>
+
 </div>
 
+<h3 id="steering-committee">Steering Committee</h3>
 
-### Steering Committee 
+<ul>
+  <li><strong><a href="https://homes.cs.washington.edu/~leibatt/bio.html">Leilani Battle</a></strong>, University of Washington</li>
+  <li><strong><a href="https://www.khoury.northeastern.edu/people/michelle-borkin/">Michelle Borkin</a></strong>, Northeastern University</li>
+  <li><strong><a href="http://correll.io/">Michael Correll</a></strong>, Tableau Software</li>
+  <li><strong><a href="https://web.cs.wpi.edu/~ltharrison/">Lane Harrison</a></strong>, Worcester Polytechnic Institute</li>
+  <li><strong><a href="https://www.eg.bucknell.edu/~emp017/">Evan Peck</a></strong>, University of Colorado - Boulder</li>
+  
+</ul>
 
-- **[Evan Peck](https://www.eg.bucknell.edu/~emp017/)**, Bucknell University
-- **[Michael Correll](http://correll.io/)**, Tableau Research
+  </div>
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Visualization for Social Good @VIS23</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            
+              Visualization for Social Good @VIS23
+            
+            </li>
+            
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/vis4good"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">vis4good</span></a>
+
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/ieeevis"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+</span><span class="username">ieeevis</span></a>
+
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <!--<p>Join us for a workshop on visualization for social good at VIS 2022.</p>-->
+       <!-- Join us for a workshop on data visualization for social good at (virtual) VIS 2021.  -->     </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
+ 
